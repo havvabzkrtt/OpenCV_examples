@@ -18,6 +18,12 @@ Haar Cascade Algoritması:
 
 ![](image-1.png)
 
+<<<<<<< HEAD
 - Bulunan nesneyi işaretle. 
 
 ![](image-2.png)
+=======
+- Bulunan nesneyi işaretle.
+
+![](image-2.png)
+>>>>>>> a83e96ba654ad6d109b1dd6f2c8135906b95aead
