@@ -11,10 +11,13 @@ Haar Cascade'ler xml uzantılı dosyalardır.
 Haar Cascade Algoritması:
 
 - İlgili kütüphaneyi, görüntüyü ve haar cascade dosyasını dahil et.
+
 ![](image.png)
 
 - Görüntüyü boz(gri) tonlara çevirerek üzerinde ilgili nesneyi ara.
+
 ![](image-1.png)
 
-- Bulunan nesneyi işaretle. 
+- Bulunan nesneyi işaretle.
+
 ![](image-2.png)
